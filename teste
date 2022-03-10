@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang = "pt-BR">
+<head>
+<title> Testes aula </title>
+<meta charset ="VTF-8">
+</head>
+<body>
+<nav>
+    <a href ="/html/">hmtl</a>
+    <a href = "/css/">css</a>
+    <a href = "/js/">Javascript</a>
+</nav>
+
+<label> &#8594; </label>
+<label> &#8595; </label>
+
+<p> &#128512; </p>
+<p> &#128525; </p>
+
+<video width ="320" height="240" conntrols :
+<source src ="eu.mp4"
+type ="video/mp4">
+</video>
+</body>
+</html>
